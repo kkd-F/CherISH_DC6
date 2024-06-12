@@ -1,5 +1,6 @@
 # CherISH-DC6
-CherISH DC6 Programming Excercise: Please download and unzip the zip file of the codes, add path and run the script CherISH_DC6.m to see the results of following tasks.
+CherISH DC6 Programming Excercise: Please download the codes as zip file, unzip the file and add the folder to path. 
+Then you can see the results of following tasks by running the script CherISH_DC6.m
 
 ### 1. Create a Gaussian white noise burst 
 with a duration of 1 sec and smooth on/offset ramps of 10 msec. 
