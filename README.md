@@ -1,5 +1,5 @@
 # CherISH-DC6
-CherISH DC6 Programming Excercise: Please download the codes as zip file, unzip the file and add the folder to path. 
+CherISH DC6 Programming Excercise: Please download the code as zip file, unzip the file and add the folder to path. 
 Then you can see the results of following tasks by running the script CherISH_DC6.m
 
 ### 1. Create a Gaussian white noise burst 
